@@ -1,0 +1,10 @@
+cognee[scraping,docs,fastembed,groq]
+fastapi
+uvicorn[standard]
+sqlmodel
+aiosqlite
+httpx
+pypdf
+trafilatura
+pytest
+python-dotenv

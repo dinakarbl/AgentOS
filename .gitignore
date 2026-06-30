@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node / React
+node_modules/
+dist/
+
+# Cognee local data
+.cognee_system/
+.cognee_data/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor/system files
+.vscode/
+.DS_Store
