@@ -8,3 +8,4 @@ pypdf
 trafilatura
 pytest
 python-dotenv
+tavily-python
